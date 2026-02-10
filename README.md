@@ -14,7 +14,7 @@
 
 ## 線上體驗
 已部署版本（隨時可存取）：
-👉 [link to my version of PDF unlock website ](https://pdf-unlock-app-chengmanyu.streamlit.app/)
+👉 [Visit PDF unlock website ](https://pdf-unlock-app-chengmanyu.streamlit.app/)
 
 ## 本機運作步驟（3分鐘快速上手）
 
